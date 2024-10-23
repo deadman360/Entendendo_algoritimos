@@ -1,0 +1,1 @@
+/home/deadman360/github.com/deadman360/Entendendo_algoritimos/pesquisa_binaria/target/debug/pesquisa_binaria: /home/deadman360/github.com/deadman360/Entendendo_algoritimos/pesquisa_binaria/src/main.rs
