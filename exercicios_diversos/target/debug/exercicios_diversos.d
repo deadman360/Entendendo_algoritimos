@@ -1,0 +1,1 @@
+/workspaces/Entendendo_algoritimos/exercicios_diversos/target/debug/exercicios_diversos: /workspaces/Entendendo_algoritimos/exercicios_diversos/src/main.rs
